@@ -1,0 +1,14 @@
+C:\Users\raffa\source\repos\LabirintoRato\bin\Debug\net8.0\LabirintoRato.exe
+C:\Users\raffa\source\repos\LabirintoRato\bin\Debug\net8.0\LabirintoRato.deps.json
+C:\Users\raffa\source\repos\LabirintoRato\bin\Debug\net8.0\LabirintoRato.runtimeconfig.json
+C:\Users\raffa\source\repos\LabirintoRato\bin\Debug\net8.0\LabirintoRato.dll
+C:\Users\raffa\source\repos\LabirintoRato\bin\Debug\net8.0\LabirintoRato.pdb
+C:\Users\raffa\source\repos\LabirintoRato\obj\Debug\net8.0\LabirintoRato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raffa\source\repos\LabirintoRato\obj\Debug\net8.0\LabirintoRato.AssemblyInfoInputs.cache
+C:\Users\raffa\source\repos\LabirintoRato\obj\Debug\net8.0\LabirintoRato.AssemblyInfo.cs
+C:\Users\raffa\source\repos\LabirintoRato\obj\Debug\net8.0\LabirintoRato.csproj.CoreCompileInputs.cache
+C:\Users\raffa\source\repos\LabirintoRato\obj\Debug\net8.0\LabirintoRato.dll
+C:\Users\raffa\source\repos\LabirintoRato\obj\Debug\net8.0\refint\LabirintoRato.dll
+C:\Users\raffa\source\repos\LabirintoRato\obj\Debug\net8.0\LabirintoRato.pdb
+C:\Users\raffa\source\repos\LabirintoRato\obj\Debug\net8.0\LabirintoRato.genruntimeconfig.cache
+C:\Users\raffa\source\repos\LabirintoRato\obj\Debug\net8.0\ref\LabirintoRato.dll
